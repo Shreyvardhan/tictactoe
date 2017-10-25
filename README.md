@@ -6,6 +6,4 @@ A live working version can be found [here](http://shrey.co/tictacttoe).
 
 Gameplay screenshots:  
 ![opening screen](https://raw.githubusercontent.com/Shreyvardhan/tictactoe/master/img/banner1.png)
-
-Single player mode:  
 ![gameplay](https://raw.githubusercontent.com/Shreyvardhan/tictactoe/master/img/banner2.png)
